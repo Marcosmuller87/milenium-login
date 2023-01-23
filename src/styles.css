@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+
+body {
+  background: rgb(236,254,255);
+background: linear-gradient(0deg, rgba(236,254,255,1) 0%, rgba(10,40,50,1) 100%) no-repeat center center fixed;
+}
